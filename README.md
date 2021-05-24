@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alvin</h1>
 <h3 align="center">I am Full Stack Python developer</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me **alielvinme@gmail.com**
 
